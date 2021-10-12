@@ -1,6 +1,13 @@
 #include <iostream>
 #include <cmath>
-
+//draw number triangle as input
+// example: input is 4
+// 1
+// 12
+// 123
+// 1234
+//
+// like that
 using namespace std;
 int main() {
 	int input = 0;

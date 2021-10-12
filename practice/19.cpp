@@ -1,7 +1,12 @@
 #include <iostream>
 #include <cmath>
 #include <string>
-
+// input 3 number
+// stick second number behind first
+// and add third
+// example: 123 456 789
+// 123456+789
+// 124245
 using namespace std;
 int main() {
 	int in1, in2, in3;

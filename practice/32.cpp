@@ -1,7 +1,8 @@
 #include <iostream>
 #include <cmath>
 #include <string>
-
+// get all of its factor of input
+// this seems very not optimized
 using namespace std;
 int main() {
 	int in;

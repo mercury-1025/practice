@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <string>
-
+//input 10 number and find number thats closest to 0
 using namespace std;
 int main() {
 	double in[10];

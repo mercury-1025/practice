@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cmath>
-
+// output line of astrisk as input
+// 0 is input as end
 using namespace std;
 int main() {
 	while (true) {

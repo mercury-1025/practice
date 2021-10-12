@@ -1,7 +1,8 @@
 #include <iostream>
 #include <cmath>
 #include <string>
-
+// input 3 digit number and output sum of all digit numbers
+// example: 482=14
 using namespace std;
 int main() {
 	int input;

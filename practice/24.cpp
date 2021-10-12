@@ -1,6 +1,13 @@
 #include <iostream>
 #include <cmath>
-
+// input number and get ascii triangle as the input hight
+// input is 4
+//        *
+//      * * *
+//    * * * * *
+//  * * * * * * *
+//
+// like that
 using namespace std;
 int main() {
 	int hight = 0;

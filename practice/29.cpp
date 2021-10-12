@@ -1,14 +1,16 @@
 #include <iostream>
 #include <cmath>
 #include <string>
-
+//input 10 of 0~999 number and output sum of single digit and sum of 2 digit and sum of 3 digit
 using namespace std;
 int main() {
 	int i[10];
 	int op1 = 0;
 	int op10 = 0;
 	int op100 = 0;
-	cin >> i[0] >> i[1] >> i[2] >> i[3] >> i[4] >> i[5] >> i[6] >> i[7] >> i[8] >> i[9];
+    for (int n = 0; n < 10; n++) {
+        cin >> i[n];
+    }
 	for (int x = 0; x < 10; x++) {
 		if (i[x] < 10) {
 			op1 += i[x];

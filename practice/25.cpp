@@ -1,7 +1,14 @@
 #include <iostream>
 #include <cmath>
 #include <string>
-
+// input number smaller then 10 and output a number triangle but its reversed
+// example: input is 5
+// 12345
+//  2345
+//   345
+//    45
+//     5
+// 
 using namespace std;
 int main() {
 	int input;

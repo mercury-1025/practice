@@ -1,11 +1,13 @@
 #include <iostream>
 #include <cmath>
 #include <string>
-
+// input 10 number and give the max and min value
 using namespace std;
 int main() {
-	int i[10];
-	cin >> i[0] >> i[1] >> i[2] >> i[3] >> i[4] >> i[5] >> i[6] >> i[7] >> i[8] >> i[9];
+    int i[10];
+    for (int n = 0; n < 10; n++) {
+        cin >> i[n];
+    }
 	int sout = i[0];
 	int lout = i[0];
 	for (int x = 0; x < 10; x++) {

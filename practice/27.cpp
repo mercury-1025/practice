@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <string>
-
+//input 2 number and get number with 1s digit is 3 or 6 or 9 from first input to second
 using namespace std;
 int main() {
 	int input1;

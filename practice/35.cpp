@@ -1,7 +1,8 @@
 #include <iostream>
 #include <cmath>
 #include <string>
-
+// get GCD of input
+// https://en.wikipedia.org/wiki/Greatest_common_divisor
 using namespace std;
 int main() {
 	float a, b, r;

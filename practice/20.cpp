@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+//replace all A in a string to astrisk
 using namespace std;
 int main() {
 	string input;

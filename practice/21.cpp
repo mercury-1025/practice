@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+//input number smoller then 10 and get a number square with length and side same as input
 using namespace std;
 int main() {
 	int input = 0;
