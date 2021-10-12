@@ -126,6 +126,12 @@
     <ClCompile Include="14.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="37.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="38.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="00.txt">

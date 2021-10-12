@@ -2,10 +2,9 @@
 //
 
 #include <iostream>
-
 int main()
 {
-    std::cout << "bonk go to horny jail\n";
+    std::cout << "Fuck off world im playing minecraft\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
