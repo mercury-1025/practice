@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 // just a starting code
-
+// get train ticket price
 int main() {
     double traincode[3][7]{
         //array 0 normal price and first one (0th one) is blank as code 1 for location is none existant
