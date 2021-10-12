@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+// just a starting code
+// question in english goes here
+int main(){
+    code goes here
+}
+
+file name is question number
+this is just a example

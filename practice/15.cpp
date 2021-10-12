@@ -1,7 +1,7 @@
-﻿
+
 #include <iostream>
 #include <cmath>
-
+// geet class kids weight and output how many of them are >= 60 and their avr weight and average is rounded to 2nd decimal
 using namespace std;
 int main(){
     int w[9];
