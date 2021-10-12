@@ -1,4 +1,6 @@
 # practice
+CODE is in practice folder BTW
+
 Homework
 
 just a homework
