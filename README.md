@@ -1,21 +1,13 @@
 # practice
 CODE is in practice folder BTW
 
-Homework
+did with teacher: 36
 
-just a homework
-
-teacher said just make code work
-
-teacher also said dont optimize it
-
-so ima code first in front of teacher and optimize it at home lmao
-
+did myself: biggest number in practice folder
 
 TODO: 
 add codes in  practice folder C++
 number them by question number in pdf file
 optimize it later
 
-you can tell me in discord if im doing somethin wrong
-lol yeet
+tell me if my code is bad in discord or in real life
