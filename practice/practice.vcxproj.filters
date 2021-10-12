@@ -18,7 +18,7 @@
     <ClCompile Include="practice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="1.cpp">
+    <ClCompile Include="01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="15.cpp">
@@ -87,10 +87,10 @@
     <ClCompile Include="36.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2.cpp">
+    <ClCompile Include="02.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3.cpp">
+    <ClCompile Include="03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
