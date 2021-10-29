@@ -135,7 +135,16 @@
     <ClCompile Include="39.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="40.cpp">
+    <ClCompile Include="48.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="49.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="50.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="51.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
